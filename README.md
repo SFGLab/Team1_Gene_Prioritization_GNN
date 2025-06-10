@@ -48,8 +48,6 @@ For each method we used the following input:
 
 ![Flowchart](https://github.com/SFGLab/Team1_Gene_Prioritization_GNN/blob/b790a73be0bdb8c3d208f48653adf3c490986681/GNN%20for%20GD%20proiritization.drawio%20(7).png)
 
-**Figure Team 1-1.** Overview of Team 1’s gene prioritization workflow using graph neural networks (GNNs).  
-![Workflow Diagram](https://github.com/SFGLab/Team1_Gene_Prioritization_GNN/blob/main/figures/Workflow-Team1.png?raw=true)
 
 ### How to use this repository?
 
