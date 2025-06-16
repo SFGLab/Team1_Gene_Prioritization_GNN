@@ -134,31 +134,6 @@ The list of the top 20 prioritized genes for ataxia using the geneDRAGNN tool th
 
 
 The list of the top 20 genes for ataxia using the retrained geneDRAGNN tool:
-**Table S1.** Comparison of top gene rankings across three methods: geneDRAGNN, retrained geneDRAGNN on Ataxia, and MultiXRANKA.
-
-| Top genes from geneDRAGNN | Top genes from Ataxia retrained geneDRAGNN | Top genes from MultiXRANKA |
-|:---------------------------|:-------------------------------------------|:----------------------------|
-| MPHOSPH10                 | XRCC1                                      | HDAC3                      |
-| IMP3                      | APBB1                                      | MLH1                       |
-| IMP4                      | COQ8A                                      | IL18                       |
-| RNF146                    | HTT                                        | ADAM23                     |
-| F11R                     | SPG7                                       | ADAM22                     |
-| PIDD1                     | PNKP                                       | TLR6                       |
-| TNKS                      | ZFP36                                      | CD36                       |
-| F2                        | ATXN3                                      | RBL2                       |
-| AXIN2                     | KCNJ10                                     | RB1                        |
-| AXIN1                     | VLDLR                                      | PTPRA                      |
-| KCNIP3                    | GOSR2                                      | MAPK12                     |
-| TNKS2                     | NF1                                        | NFKB1                      |
-| CRADD                     | CASK                                       | YOD1                       |
-| PELP1                     | HEXB                                       | NPNT                       |
-| KCND1                     | MT-ATP6                                    | UNC5B                      |
-| KCNIP4                    | COX20                                      | EYA1                       |
-| KCNIP1                    | POLG                                       | GRM5                       |
-| MAP1LC3B                  | TTBK2                                      | TLE5                       |
-| NRF1                      | GRM1                                       | EIF4G1                     |
-| CASP2                     | CP                                         | ASAP1                      |
-
 
 ![image](https://github.com/user-attachments/assets/911e5d61-987d-4831-80b9-a69718437a43)
 
