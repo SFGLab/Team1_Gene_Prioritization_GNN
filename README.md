@@ -8,6 +8,11 @@
   </tr>
 </table>
 
+**Table S1.** Comparison of gene prioritization tools.
+
+[View Table S1 on GitHub](https://github.com/SFGLab/Team1_Gene_Prioritization_GNN/blob/main/comparison%20of%20tools.xlsx)  
+[Download Table S1 (Excel)](https://github.com/SFGLab/Team1_Gene_Prioritization_GNN/raw/main/comparison%20of%20tools.xlsx)
+
 
 ## Aim
 
